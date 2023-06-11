@@ -1,0 +1,45 @@
+.src-box{
+	-fx-background-color:#FFFFFF;
+	-fx-background-radius:100;
+}
+
+.transparent{
+	-fx-background-color:rgba(0,0,0,0);
+}
+
+.src-btn{
+	-fx-background-color:#828282;
+	-fx-background-radius:30;
+}
+
+.lft-bar{
+	-fx-background-color:#d3d3d3;
+}
+
+.shadow{
+	-fx-effect:dropShadow(three-pass-box,rgba(0,0,0,0.1),10,0,0,10);
+}
+
+.chosen-card{
+	-fx-background-color:#f16c31;
+	-fx-background-radius:30;
+}
+
+.cmb-box{
+	-fx-background-color: rgba(255,255,255,0.3);
+	-fx-background-radius:30;
+} /*can't be used in spinner still working*/
+
+.cart-btn{
+    -fx-background-color:#ffffff;
+    -fx-background-radius:30;
+    -fx-text-fill:#878787;
+    -fx-font-size:15px;
+    -fx-font-family:"Arial";
+    -fx-font-weight:bold;
+    -fx-cursor:hand;
+}
+.item{
+	-fx-background-color:#ffffff;
+	-fx-background-radius:30;
+}

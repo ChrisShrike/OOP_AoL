@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ThankYouController">
+   <children>
+      <Text layoutX="99.0" layoutY="89.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Thank you for you purchase!">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="138.0" layoutY="182.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ini ntr kasi logo ya bang terus di delete aja" />
+      <Button fx:id="returnMain" layoutX="224.0" layoutY="257.0" mnemonicParsing="false" onAction="#retrunMain" text="Return" />
+   </children>
+</AnchorPane>
