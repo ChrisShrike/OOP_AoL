@@ -20,19 +20,19 @@ Fast Food Ordering System is an application made using JavaFX which purpose is t
 
 ## Application Flow
  1. ### Creating Account
-    First, new customer should create an account. They should fill in their desired username and password into the corresponding field. After re-entering the password, the customer should click the __**Register**__ button. 
+    First, new customer should create an account. They should fill in their desired username and password into the corresponding field. After re-entering the password, the customer should click the Register button. 
  3. ### Log In
     To log in into their account, customer needs to fill in their username and password to the corresponding field in the log in page. After logging in, customer will be directed to the menu page.
  5. ### Order
-    In the menu page, customer can order from either the combo or the ala carte menu. Number or order will be shown in the menu's __**food item**__ card.
+    In the menu page, customer can order from either the combo or the ala carte menu. Number or order will be shown in the menu food item card.
  7. ### Finalize Order
-    After ordering all items, customer can click the __**order**__ button to finalize their order. This will lead them onto the check out page.
+    After ordering all items, customer can click the order button to finalize their order. This will lead them onto the check out page.
  9. ### Input Payment Information
     In the check out page, customer will be able to see all of their order in the corresponding table. To pay, they must input their card number and password.
  11. ### Finalize Payment
-     After filling in the neccessary information, the customer can finalize their payment by clicking the __**confirm**__ button.
+     After filling in the neccessary information, the customer can finalize their payment by clicking the confirm button.
  13. ### Return to Log In Page
-    After completing payment, customer will be directed to the thank you page. If customer wanted to order more, they could click the __**return**__ page before logging in again to order additional food item.
+     The customer would be directed to the thank you page. Customer who want to order more food item can click the return button to go back to the login page and repeat flow number 1 to 7.
 ## Team Member
 - Christian - 2540126323
 - Filippo - 2501959182
