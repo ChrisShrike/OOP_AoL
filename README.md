@@ -13,7 +13,7 @@ Fast Food Ordering System is an application made using JavaFX which purpose is t
       ![Menu Page](https://github.com/ChrisShrike/OOP_AoL/blob/fe1c578b13382ac14f6bacb6d895a2247dd405b8/OOP%20SS/menu%20page.png)
 5. ### Check Out page
     - **Check Out Page**<br>
-      ![Check Out Page](https://github.com/ChrisShrike/OOP_AoL/blob/fe1c578b13382ac14f6bacb6d895a2247dd405b8/OOP%20SS/payment%20page.png)
+      ![Check Out Page](https://github.com/ChrisShrike/OOP_AoL/blob/main/OOP%20SS/payment%20page%20w_total.png)
 7. ### Thank You page
     - **Thank You Page**<br>
       ![Thank You Page](https://github.com/ChrisShrike/OOP_AoL/blob/fe1c578b13382ac14f6bacb6d895a2247dd405b8/OOP%20SS/thank%20you%20page.png)
