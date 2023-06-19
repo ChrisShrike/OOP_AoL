@@ -33,7 +33,16 @@ Fast Food Ordering System is an application made using JavaFX which purpose is t
      After filling in the neccessary information, the customer can finalize their payment by clicking the confirm button.
  13. ### Return to Log In Page
      The customer would be directed to the thank you page. Customer who want to order more food item can click the return button to go back to the login page and repeat flow number 1 to 7.
+
+## Technologies used
+   <br><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" height="150"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="135">&nbsp;&nbsp;&nbsp;&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/SceneBuilderLogo.png/330px-SceneBuilderLogo.png" height="150">&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" height="150">
+
 ## Team Member
 - Christian - 2540126323
 - Filippo - 2501959182
 - Pretty - 2540134256
+
+
