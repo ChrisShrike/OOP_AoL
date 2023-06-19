@@ -45,4 +45,7 @@ Fast Food Ordering System is an application made using JavaFX which purpose is t
 - Filippo - 2501959182
 - Pretty - 2540134256
 
+## Notes regarding Github
+All the code is done together but seperated into private githubs before collaborative feature, resulting in very few commits by members of the group. The code from private github was then compiled together in this github with collaborative feature for editing as the final oop aol project. All members contributed for this project!
+
 
