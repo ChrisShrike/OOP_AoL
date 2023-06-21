@@ -1,6 +1,8 @@
 # Fast Food Ordering System
 ## Project Description
 Fast Food Ordering System is an application made using JavaFX which purpose is to act as a helpful tool for fast food restaurant customer to be able to order their food fast and pay without direct assistance of the server (waiter/waitress). With this fast food ordering system, restaurant would be able to automate their whole operation, and thus minimize mistakes so that it can provides better experience for the diners.
+### Disclaimer ⚠️
+**The creative team of this work does not own rights to Los Pollos Hermanos, and all usage of the Los Pollos Hermanos logo within this program is for demonstrative purposes only.**
 
 ## Application Structure
 1. ### Log In/ Sign Up page
